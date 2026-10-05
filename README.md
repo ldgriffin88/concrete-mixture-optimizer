@@ -28,5 +28,7 @@ Of the initial models, gradient boosting produced the strongest overall regressi
 ## Repository Contents
 
 FinalProject_LoganGriffin.ipynb: Model training, evaluation, data generation, and optimization workflow
+
 FinalProject_ProgrammingReport.pdf: full project report including visuals, analysis, and results
+
 README.md: project overview
